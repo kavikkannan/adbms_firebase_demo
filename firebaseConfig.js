@@ -7,14 +7,13 @@ import { getDatabase } from 'firebase/database';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCgtFoPOJbnmQeQgqfpWG8nsRYUtG58CKY",
-  authDomain: "binarybattles-41126.firebaseapp.com",
-  databaseURL: "https://binarybattles-41126-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "binarybattles-41126",
-  storageBucket: "binarybattles-41126.appspot.com",
-  messagingSenderId: "132515713467",
-  appId: "1:132515713467:web:bcf8abd80cb5dfc98ff49e",
-  measurementId: "G-HKMHDV2QE2"
+  apiKey: "AIzaSyBqde4zjLji09WYRjez70O_a0SBfeMYREg",
+  authDomain: "adbms-4e743.firebaseapp.com",
+  databaseURL: "https://adbms-4e743-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "adbms-4e743",
+  storageBucket: "adbms-4e743.appspot.com",
+  messagingSenderId: "680441782183",
+  appId: "1:680441782183:web:895db0aa6c0da2700d2082"
 };
 
 // Initialize Firebase
